@@ -1,4 +1,4 @@
-# <img src="./raw-icons/max-commits-3.png" alt="Max Commits Logo" width="50"/> Max Commits
+# <img src="./raw-icons/max-commits-3.png" alt="Max Commits Logo" width="40"/> Max Commits
 
 **Commit growth maximization tools.**
 

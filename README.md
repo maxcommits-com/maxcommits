@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./raw-icons/max-commits-3.png" alt="Max Commits Logo" width="80"/>
+  <img src="./raw-images/max-commits-3-full.png" alt="Max Commits Logo" width="80"/>
 </p>
 <h1 align="center">Max Commits</h1>
 
